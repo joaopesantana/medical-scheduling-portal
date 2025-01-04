@@ -1,0 +1,7 @@
+{
+  "name": "medical-scheduling-portal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
